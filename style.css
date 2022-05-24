@@ -1,0 +1,25 @@
+body {
+  background-color: #f2d7d1;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 2%;
+}
+.question {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1.2%;
+}
+.textz {
+  text-align: center;
+  color: #bc8ea6;
+}
